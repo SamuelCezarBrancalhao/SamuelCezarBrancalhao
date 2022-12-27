@@ -1,6 +1,6 @@
-•Olá, meu nome é Samuel, tenho 17 anos e moro em Itapeva/SP;
+•Olá, meu nome é Samuel, tenho 18 anos e moro em Itapeva/SP;
 
-•Estou cursando o 3° ano do Ensino Médio e faço curso de Desenvolvimento de Sistemas na ETEC;
+•Completei o ensino médio, pretendo fazer uma faculdade e faço curso de Desenvolvimento de Sistemas na ETEC;
 
 •Atualmente estou desempregado, procurando vagas em Banco De Dado. 
 
